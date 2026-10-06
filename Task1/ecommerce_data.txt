@@ -1,0 +1,9 @@
+#PRODUCTS
+1|Wireless Headphones|Electronics|2499.0|15
+2|Mechanical Keyboard|Electronics|3999.0|10
+3|Running Shoes|Sports|2899.0|20
+4|Cotton T-Shirt|Clothing|799.0|30
+5|Java Programming Book|Books|699.0|25
+6|Coffee Maker|Home|4499.0|8
+#CUSTOMERS
+#ORDERS
